@@ -6,3 +6,4 @@ numpy
 gunicorn
 sqlalchemy
 flask_cors
+pymysql
