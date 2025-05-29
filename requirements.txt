@@ -3,3 +3,4 @@ scikit-learn
 dill
 pandas
 numpy
+gunicorn
