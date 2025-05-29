@@ -4,3 +4,4 @@ dill
 pandas
 numpy
 gunicorn
+pymysql
