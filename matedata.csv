@@ -1,0 +1,201 @@
+ID,Name,Age,Gender,Occupation,Sleep Schedule,Personality,Cleanliness Preference,Budget Range,Accommodation Type,Preferred Area,Mobile Number,Interests,Roommates,Rating from Past Roommate,Social Activity Level
+1,Arjun,21,Male,Freelancer,Night Owl,Extrovert,4,10000,Hostel,Knowledge Park,9.20E+11,Photography,4,1,Occasional Gatherings
+2,Ishita,35,Female,Working Professional,Night Owl,Extrovert,5,15000,Hostel,Gamma,9.18E+11,Music,6,1,Party-Friendly
+3,Riya,25,Female,Freelancer,Flexible,Extrovert,1,9500,Hostel,Gamma,9.17E+11,Cooking,3,3,Party-Friendly
+4,Suresh,21,Male,Working Professional,Flexible,Introvert,3,8500,Flat,Gamma,9.19E+11,Movies,3,4,Occasional Gatherings
+5,Simran,28,Female,Student,Flexible,Extrovert,5,10500,Flat,Gamma,9.17E+11,Fitness,4,3,Prefers Quiet
+6,Saanvi,30,Female,Student,Night Owl,Extrovert,4,5000,Flat,Alpha,9.19E+11,Sports,3,1,Party-Friendly
+7,Anaya,27,Female,Student,Night Owl,Extrovert,3,6500,PG,Alpha,9.19E+11,Music,3,3,Occasional Gatherings
+8,Sneha,28,Female,Working Professional,Night Owl,Introvert,2,10000,PG,Alpha,9.19E+11,Fitness,6,4,Party-Friendly
+9,Suresh,36,Male,Freelancer,Flexible,Extrovert,2,7500,PG,Alpha,9.19E+11,Sports,3,4,Prefers Quiet
+10,Gaurav,40,Male,Working Professional,Flexible,Extrovert,5,8500,PG,Alpha,9.19E+11,Traveling,4,2,Occasional Gatherings
+11,Sahil,24,Male,Student,Night Owl,Introvert,1,7800,PG,Gamma,9.18E+11,Cooking,2,4,Prefers Quiet
+12,Sahil,33,Male,Student,Night Owl,Introvert,3,15000,Hostel,Beta,9.19E+11,Gaming,6,4,Prefers Quiet
+13,Ishaan,35,Male,Student,Night Owl,Introvert,4,5000,PG,Alpha,9.16E+11,Cooking,2,4,Prefers Quiet
+14,Pooja,19,Female,Freelancer,Early Riser,Introvert,2,5000,PG,Beta,9.19E+11,Music,5,5,Occasional Gatherings
+15,Nitin,40,Male,Student,Night Owl,Extrovert,3,5000,Flat,Beta,9.19E+11,Reading,5,5,Party-Friendly
+16,Vikas,33,Male,Freelancer,Early Riser,Extrovert,1,15000,PG,Knowledge Park,9.19E+11,Fitness,6,2,Party-Friendly
+17,Mohit,27,Male,Working Professional,Flexible,Introvert,4,5000,Hostel,Knowledge Park,9.17E+11,Fitness,2,3,Prefers Quiet
+18,Ravi,39,Male,Working Professional,Early Riser,Introvert,2,5000,PG,Alpha,9.18E+11,Photography,6,1,Occasional Gatherings
+19,Aryan,34,Male,Freelancer,Early Riser,Extrovert,4,10500,Hostel,Alpha,9.16E+11,Music,2,2,Occasional Gatherings
+20,Arjun,23,Male,Working Professional,Early Riser,Extrovert,3,8900,Flat,Gamma,9.17E+11,Technology,5,3,Occasional Gatherings
+21,Varun,35,Male,Student,Flexible,Introvert,1,8500,PG,Knowledge Park,9.20E+11,Fitness,4,2,Party-Friendly
+22,Tanisha,38,Female,Student,Night Owl,Introvert,5,11500,Hostel,Alpha,9.18E+11,Photography,5,4,Occasional Gatherings
+23,Kiran,36,Female,Student,Night Owl,Extrovert,1,8600,PG,Knowledge Park,9.17E+11,Technology,3,3,Prefers Quiet
+24,Siddharth,19,Male,Working Professional,Flexible,Introvert,1,10000,PG,Alpha,9.18E+11,Sports,5,5,Occasional Gatherings
+25,Pooja,25,Female,Student,Flexible,Extrovert,5,8800,Flat,Gamma,9.17E+11,Traveling,3,1,Party-Friendly
+26,Amit,35,Male,Working Professional,Early Riser,Introvert,3,9000,Flat,Gamma,9.16E+11,Reading,3,3,Party-Friendly
+27,Dhruv,18,Male,Working Professional,Early Riser,Introvert,1,14500,Hostel,Beta,9.19E+11,Cooking,3,1,Occasional Gatherings
+28,Kunal,28,Male,Student,Early Riser,Extrovert,2,8500,Hostel,Beta,9.16E+11,Traveling,4,2,Occasional Gatherings
+29,Rakesh,20,Male,Student,Flexible,Extrovert,2,6800,Hostel,Gamma,9.17E+11,Reading,4,3,Party-Friendly
+30,Myra,35,Female,Freelancer,Early Riser,Introvert,2,9850,Hostel,Gamma,9.20E+11,Technology,6,4,Party-Friendly
+31,Vivaan,23,Male,Freelancer,Early Riser,Extrovert,3,7700,Flat,Beta,9.17E+11,Fitness,3,4,Party-Friendly
+32,Nisha,33,Female,Working Professional,Early Riser,Extrovert,1,10200,Flat,Knowledge Park,9.16E+11,Music,5,1,Prefers Quiet
+33,Kiran,32,Female,Freelancer,Early Riser,Introvert,2,11050,Hostel,Gamma,9.18E+11,Music,4,5,Party-Friendly
+34,Kabir,34,Male,Student,Flexible,Introvert,4,15000,Hostel,Knowledge Park,9.19E+11,Sports,5,1,Party-Friendly
+35,Vivaan,38,Male,Student,Early Riser,Introvert,5,10000,Flat,Alpha,9.19E+11,Photography,2,2,Occasional Gatherings
+36,Aanya,22,Female,Student,Night Owl,Introvert,3,9300,PG,Knowledge Park,9.17E+11,Photography,6,3,Party-Friendly
+37,Deepak,32,Male,Freelancer,Flexible,Introvert,4,14300,Hostel,Gamma,9.19E+11,Movies,3,4,Prefers Quiet
+38,Alok,34,Male,Freelancer,Night Owl,Extrovert,3,8000,Flat,Gamma,9.20E+11,Music,2,5,Occasional Gatherings
+39,Aanya,28,Female,Freelancer,Early Riser,Introvert,1,9300,Flat,Alpha,9.19E+11,Movies,2,5,Party-Friendly
+40,Simran,39,Female,Freelancer,Night Owl,Extrovert,1,15000,Flat,Beta,9.17E+11,Technology,6,5,Occasional Gatherings
+41,Sunita,22,Female,Student,Early Riser,Extrovert,4,7800,PG,Gamma,9.18E+11,Fitness,5,1,Occasional Gatherings
+42,Anaya,37,Female,Working Professional,Night Owl,Introvert,2,9900,Flat,Knowledge Park,9.19E+11,Movies,5,3,Prefers Quiet
+43,Krishna,31,Male,Student,Night Owl,Introvert,3,8800,Hostel,Gamma,9.18E+11,Reading,2,2,Occasional Gatherings
+44,Nitin,29,Male,Working Professional,Early Riser,Introvert,4,15000,Flat,Alpha,9.20E+11,Music,5,1,Party-Friendly
+45,Ravi,26,Male,Student,Early Riser,Extrovert,1,15000,Hostel,Alpha,9.20E+11,Gaming,4,5,Occasional Gatherings
+46,Riya,19,Female,Freelancer,Early Riser,Extrovert,4,10000,Hostel,Alpha,9.19E+11,Gaming,6,1,Prefers Quiet
+47,Vivaan,35,Male,Freelancer,Night Owl,Extrovert,2,5000,PG,Gamma,9.17E+11,Traveling,3,4,Occasional Gatherings
+48,Arjun,27,Male,Working Professional,Flexible,Introvert,2,10050,Flat,Knowledge Park,9.19E+11,Gaming,2,2,Occasional Gatherings
+49,Kabir,24,Male,Working Professional,Early Riser,Introvert,3,5000,Hostel,Alpha,9.16E+11,Gaming,2,5,Prefers Quiet
+50,Nisha,36,Female,Student,Early Riser,Introvert,5,10590,Flat,Alpha,9.19E+11,Gaming,5,2,Party-Friendly
+51,Pari,39,Female,Student,Flexible,Extrovert,3,11000,Hostel,Gamma,9.19E+11,Gaming,6,5,Occasional Gatherings
+52,Ritika,23,Female,Working Professional,Early Riser,Introvert,4,9450,PG,Gamma,9.18E+11,Traveling,4,1,Party-Friendly
+53,Pari,25,Female,Freelancer,Early Riser,Extrovert,5,15500,Hostel,Beta,9.17E+11,Reading,6,2,Occasional Gatherings
+54,Sahil,18,Male,Freelancer,Flexible,Introvert,3,13500,Hostel,Alpha,9.19E+11,Movies,3,4,Occasional Gatherings
+55,Neha,38,Female,Student,Early Riser,Extrovert,2,15300,Hostel,Gamma,9.19E+11,Music,3,2,Occasional Gatherings
+56,Aarav,25,Male,Working Professional,Night Owl,Introvert,4,5500,Hostel,Gamma,9.20E+11,Gaming,6,2,Occasional Gatherings
+57,Rahul,40,Male,Working Professional,Early Riser,Introvert,5,6500,Hostel,Gamma,9.18E+11,Movies,6,2,Occasional Gatherings
+58,Sahil,25,Male,Working Professional,Flexible,Extrovert,1,10000,Flat,Gamma,9.19E+11,Cooking,2,1,Party-Friendly
+59,Raj,25,Male,Working Professional,Night Owl,Extrovert,5,5000,Hostel,Gamma,9.18E+11,Sports,6,2,Party-Friendly
+60,Saanvi,35,Female,Working Professional,Flexible,Extrovert,2,15000,Hostel,Beta,9.18E+11,Fitness,6,2,Prefers Quiet
+61,Aditya,40,Male,Freelancer,Early Riser,Extrovert,3,15000,Flat,Alpha,9.18E+11,Sports,6,2,Party-Friendly
+62,Diya,19,Female,Freelancer,Early Riser,Extrovert,5,10500,Hostel,Beta,9.18E+11,Fitness,5,4,Party-Friendly
+63,Aarav,25,Male,Student,Flexible,Extrovert,4,10000,Flat,Gamma,9.20E+11,Movies,4,3,Occasional Gatherings
+64,Aarohi,37,Female,Student,Night Owl,Introvert,4,15000,Flat,Gamma,9.20E+11,Movies,4,4,Occasional Gatherings
+65,Suresh,18,Male,Working Professional,Night Owl,Introvert,5,15500,PG,Gamma,9.17E+11,Technology,3,2,Occasional Gatherings
+66,Saanvi,40,Female,Student,Night Owl,Introvert,5,6700,Flat,Gamma,9.17E+11,Reading,5,3,Prefers Quiet
+67,Nisha,25,Female,Student,Night Owl,Introvert,1,7800,PG,Gamma,9.16E+11,Sports,2,1,Occasional Gatherings
+68,Pari,34,Female,Student,Night Owl,Extrovert,5,7800,Flat,Knowledge Park,9.19E+11,Photography,5,5,Occasional Gatherings
+69,Krishna,21,Male,Student,Flexible,Extrovert,1,9800,Hostel,Gamma,9.18E+11,Sports,3,5,Prefers Quiet
+70,Aarav,33,Male,Student,Night Owl,Extrovert,2,10000,PG,Knowledge Park,9.18E+11,Reading,6,5,Occasional Gatherings
+71,Ravi,28,Male,Freelancer,Early Riser,Introvert,5,13500,PG,Knowledge Park,9.16E+11,Cooking,4,5,Party-Friendly
+72,Sonia,25,Female,Freelancer,Flexible,Introvert,1,15000,Hostel,Alpha,9.19E+11,Technology,3,5,Prefers Quiet
+73,Siddharth,33,Male,Working Professional,Early Riser,Extrovert,3,5500,PG,Alpha,9.18E+11,Gaming,5,3,Prefers Quiet
+74,Sonia,30,Female,Freelancer,Night Owl,Extrovert,4,15000,Hostel,Beta,9.19E+11,Reading,2,4,Party-Friendly
+75,Rohan,32,Male,Freelancer,Flexible,Introvert,2,15000,PG,Alpha,9.18E+11,Reading,6,5,Prefers Quiet
+76,Aarav,21,Male,Student,Early Riser,Introvert,5,6450,Flat,Gamma,9.17E+11,Gaming,5,3,Party-Friendly
+77,Suresh,30,Male,Freelancer,Night Owl,Extrovert,3,7600,Hostel,Beta,9.19E+11,Traveling,5,5,Occasional Gatherings
+78,Amit,18,Male,Freelancer,Early Riser,Introvert,3,9900,Flat,Gamma,9.17E+11,Movies,5,5,Prefers Quiet
+79,Aarohi,18,Female,Working Professional,Night Owl,Extrovert,3,10500,Hostel,Beta,9.18E+11,Technology,2,2,Occasional Gatherings
+80,Aryan,19,Male,Student,Early Riser,Introvert,3,5500,Hostel,Gamma,9.20E+11,Gaming,4,2,Occasional Gatherings
+81,Shruti,36,Female,Student,Night Owl,Extrovert,5,8500,Hostel,Knowledge Park,9.16E+11,Traveling,2,1,Prefers Quiet
+82,Neha,31,Female,Student,Night Owl,Introvert,3,15500,PG,Alpha,9.19E+11,Traveling,6,3,Occasional Gatherings
+83,Myra,24,Female,Working Professional,Night Owl,Introvert,4,8500,PG,Beta,9.17E+11,Cooking,3,3,Party-Friendly
+84,Ravi,20,Male,Freelancer,Flexible,Introvert,5,10900,Flat,Beta,9.19E+11,Technology,3,4,Occasional Gatherings
+85,Simran,32,Female,Freelancer,Flexible,Extrovert,1,11000,Flat,Gamma,9.16E+11,Music,5,2,Occasional Gatherings
+86,Riya,40,Female,Student,Flexible,Extrovert,5,8900,Flat,Beta,9.18E+11,Cooking,6,5,Party-Friendly
+87,Dhruv,40,Male,Freelancer,Early Riser,Introvert,5,8500,PG,Knowledge Park,9.16E+11,Reading,3,4,Prefers Quiet
+88,Alok,32,Male,Student,Night Owl,Extrovert,4,15000,Hostel,Knowledge Park,9.20E+11,Cooking,3,4,Party-Friendly
+89,Aarohi,26,Female,Student,Night Owl,Extrovert,1,14000,PG,Knowledge Park,9.19E+11,Reading,3,1,Party-Friendly
+90,Ritika,28,Female,Student,Early Riser,Extrovert,2,13000,Flat,Knowledge Park,9.18E+11,Fitness,3,5,Prefers Quiet
+91,Aanya,19,Female,Student,Flexible,Introvert,2,8750,PG,Beta,9.19E+11,Fitness,2,3,Prefers Quiet
+92,Simran,19,Female,Working Professional,Early Riser,Introvert,3,8900,PG,Beta,9.16E+11,Cooking,3,1,Occasional Gatherings
+93,Diya,33,Female,Freelancer,Night Owl,Extrovert,4,10000,PG,Alpha,9.16E+11,Movies,5,2,Prefers Quiet
+94,Meera,39,Female,Student,Early Riser,Introvert,3,5400,Flat,Beta,9.17E+11,Fitness,5,3,Party-Friendly
+95,Sahil,32,Male,Student,Flexible,Introvert,1,6900,PG,Alpha,9.20E+11,Movies,3,2,Prefers Quiet
+96,Alok,37,Male,Freelancer,Early Riser,Extrovert,4,5500,Hostel,Alpha,9.19E+11,Sports,2,3,Prefers Quiet
+97,Siddharth,30,Male,Working Professional,Early Riser,Introvert,2,5900,PG,Gamma,9.17E+11,Traveling,3,1,Occasional Gatherings
+98,Varun,20,Male,Working Professional,Early Riser,Introvert,5,8900,Flat,Gamma,9.19E+11,Movies,6,2,Occasional Gatherings
+99,Vivaan,29,Male,Freelancer,Night Owl,Extrovert,4,8900,Flat,Knowledge Park,9.16E+11,Photography,2,2,Party-Friendly
+100,Pari,26,Female,Working Professional,Early Riser,Introvert,5,7600,Flat,Gamma,9.19E+11,Fitness,6,1,Party-Friendly
+101,Mohit,22,Male,Freelancer,Flexible,Introvert,2,9600,Hostel,Alpha,9.19E+11,Gaming,5,3,Party-Friendly
+102,Sonia,26,Female,Working Professional,Night Owl,Introvert,1,7600,Hostel,Alpha,9.19E+11,Sports,3,3,Occasional Gatherings
+103,Nisha,30,Female,Freelancer,Early Riser,Introvert,1,8700,PG,Alpha,9.18E+11,Photography,5,1,Occasional Gatherings
+104,Gaurav,29,Male,Working Professional,Flexible,Introvert,3,9600,Flat,Beta,9.19E+11,Cooking,6,3,Occasional Gatherings
+105,Meera,35,Female,Student,Early Riser,Extrovert,4,9400,PG,Beta,9.19E+11,Technology,3,1,Party-Friendly
+106,Neha,37,Female,Freelancer,Night Owl,Introvert,5,10000,Hostel,Gamma,9.16E+11,Reading,3,5,Party-Friendly
+107,Ritika,26,Female,Freelancer,Night Owl,Introvert,1,8000,PG,Beta,9.17E+11,Gaming,2,1,Prefers Quiet
+108,Saanvi,40,Female,Student,Flexible,Introvert,3,15000,Flat,Beta,9.18E+11,Gaming,6,5,Party-Friendly
+109,Kunal,20,Male,Student,Night Owl,Extrovert,4,11000,Flat,Knowledge Park,9.17E+11,Music,2,2,Prefers Quiet
+110,Simran,19,Female,Student,Night Owl,Extrovert,2,13200,PG,Beta,9.18E+11,Cooking,2,4,Occasional Gatherings
+111,Dhruv,39,Male,Freelancer,Flexible,Introvert,2,9400,Hostel,Knowledge Park,9.17E+11,Technology,6,4,Prefers Quiet
+112,Aarav,26,Male,Student,Early Riser,Extrovert,3,8700,Flat,Knowledge Park,9.16E+11,Reading,2,2,Occasional Gatherings
+113,Vanshika,37,Female,Student,Night Owl,Introvert,5,9050,PG,Knowledge Park,9.17E+11,Photography,3,5,Occasional Gatherings
+114,Rakesh,37,Male,Student,Night Owl,Extrovert,4,11600,Hostel,Gamma,9.19E+11,Cooking,2,4,Party-Friendly
+115,Anchal,27,Female,Working Professional,Night Owl,Extrovert,4,9250,Hostel,Beta,9.19E+11,Gaming,3,2,Prefers Quiet
+116,Ravi,26,Male,Freelancer,Flexible,Extrovert,5,7685,Hostel,Alpha,9.16E+11,Fitness,2,4,Occasional Gatherings
+117,Amit,40,Male,Freelancer,Flexible,Extrovert,4,9685,PG,Alpha,9.18E+11,Reading,5,4,Occasional Gatherings
+118,Aryan,30,Male,Student,Night Owl,Extrovert,5,7689,PG,Knowledge Park,9.17E+11,Reading,2,5,Occasional Gatherings
+119,Samriddhi,20,Female,Working Professional,Flexible,Introvert,3,9667,Hostel,Gamma,9.19E+11,Music,6,1,Party-Friendly
+120,Myra,34,Female,Working Professional,Night Owl,Introvert,2,8760,Hostel,Gamma,9.19E+11,Reading,2,5,Occasional Gatherings
+121,Kabir,36,Male,Working Professional,Early Riser,Extrovert,5,14290,Hostel,Beta,9.17E+11,Sports,3,2,Party-Friendly
+122,Raj,40,Male,Working Professional,Early Riser,Introvert,4,7586,Flat,Knowledge Park,9.18E+11,Cooking,2,1,Occasional Gatherings
+123,Aditya,28,Male,Student,Night Owl,Extrovert,5,9687,PG,Alpha,9.17E+11,Reading,4,3,Party-Friendly
+124,Rakesh,32,Male,Working Professional,Flexible,Extrovert,5,7985,Flat,Beta,9.19E+11,Cooking,5,3,Occasional Gatherings
+125,Saanvi,28,Female,Freelancer,Early Riser,Introvert,5,9876,Hostel,Knowledge Park,9.18E+11,Reading,4,4,Party-Friendly
+126,Vivaan,32,Male,Working Professional,Flexible,Introvert,3,7640,Flat,Knowledge Park,9.20E+11,Technology,4,4,Prefers Quiet
+127,Krishna,35,Male,Student,Early Riser,Introvert,3,9403,Flat,Gamma,9.17E+11,Gaming,5,4,Party-Friendly
+128,Gaurav,35,Male,Freelancer,Flexible,Extrovert,3,8695,PG,Beta,9.16E+11,Traveling,5,2,Prefers Quiet
+129,Mohit,24,Male,Student,Early Riser,Introvert,3,8706,Hostel,Knowledge Park,9.20E+11,Gaming,5,3,Prefers Quiet
+130,Harshita,19,Female,Freelancer,Early Riser,Extrovert,5,9098,Hostel,Beta,9.18E+11,Photography,2,5,Occasional Gatherings
+131,Mohit,35,Male,Freelancer,Flexible,Extrovert,4,9999,Flat,Gamma,9.17E+11,Technology,2,2,Party-Friendly
+132,Priya,27,Female,Freelancer,Night Owl,Introvert,4,8888,Hostel,Knowledge Park,9.17E+11,Photography,6,3,Prefers Quiet
+133,Gaurav,21,Male,Student,Early Riser,Introvert,4,7777,Flat,Gamma,9.17E+11,Reading,5,2,Occasional Gatherings
+134,Gopal,23,Male,Working Professional,Night Owl,Introvert,4,6666,Hostel,Knowledge Park,9.18E+11,Traveling,4,4,Party-Friendly
+135,Ayush,19,Male,Student,Night Owl,Extrovert,3,7897,PG,Alpha,9.20E+11,Movies,5,3,Occasional Gatherings
+136,Rinku,30,Male,Freelancer,Flexible,Extrovert,5,8768,Flat,Beta,9.19E+11,Cooking,5,1,Occasional Gatherings
+137,Anmol,18,Female,Freelancer,Early Riser,Introvert,4,6789,Hostel,Alpha,9.17E+11,Cooking,3,1,Prefers Quiet
+138,Adi,28,Male,Student,Flexible,Extrovert,5,9876,Hostel,Alpha,9.18E+11,Music,4,3,Occasional Gatherings
+139,Pari,21,Female,Freelancer,Flexible,Introvert,5,7867,Hostel,Alpha,9.18E+11,Reading,4,3,Occasional Gatherings
+140,Sneha,23,Female,Freelancer,Night Owl,Extrovert,1,5686,PG,Knowledge Park,9.18E+11,Cooking,2,2,Party-Friendly
+141,Riya,25,Female,Student,Early Riser,Extrovert,1,8800,Flat,Beta,9.19E+11,Fitness,6,3,Party-Friendly
+142,Ritika,39,Female,Working Professional,Night Owl,Introvert,3,7897,PG,Beta,9.19E+11,Music,4,1,Party-Friendly
+143,Nisha,37,Female,Freelancer,Night Owl,Extrovert,4,6578,Hostel,Beta,9.18E+11,Photography,2,3,Occasional Gatherings
+144,Kabir,31,Male,Working Professional,Flexible,Introvert,2,9780,Hostel,Beta,9.17E+11,Fitness,6,1,Occasional Gatherings
+145,Rahul,40,Male,Freelancer,Flexible,Extrovert,5,1430,Flat,Beta,9.17E+11,Fitness,3,1,Party-Friendly
+146,Kiran,29,Female,Freelancer,Flexible,Introvert,3,8450,Hostel,Knowledge Park,9.16E+11,Music,4,5,Occasional Gatherings
+147,Varun,31,Male,Student,Flexible,Introvert,1,8590,PG,Knowledge Park,9.19E+11,Sports,6,5,Prefers Quiet
+148,Sonia,33,Female,Freelancer,Night Owl,Introvert,3,7580,PG,Knowledge Park,9.17E+11,Reading,4,2,Prefers Quiet
+149,Alok,40,Male,Working Professional,Early Riser,Extrovert,4,5869,PG,Beta,9.18E+11,Fitness,2,3,Occasional Gatherings
+150,Vivaan,38,Male,Working Professional,Flexible,Introvert,5,9580,Hostel,Gamma,9.19E+11,Reading,3,1,Occasional Gatherings
+151,Priya,21,Female,Student,Early Riser,Extrovert,1,7759,Flat,Knowledge Park,9.20E+11,Sports,6,3,Occasional Gatherings
+152,Anaya,28,Female,Freelancer,Flexible,Extrovert,4,9985,Hostel,Gamma,9.17E+11,Sports,4,3,Prefers Quiet
+153,Aditi,25,Female,Working Professional,Night Owl,Extrovert,4,8895,Hostel,Beta,9.18E+11,Reading,2,2,Occasional Gatherings
+154,Sonia,18,Female,Freelancer,Flexible,Extrovert,4,9985,Flat,Gamma,9.16E+11,Reading,2,3,Occasional Gatherings
+155,Gaurav,21,Male,Student,Night Owl,Extrovert,5,8834,PG,Gamma,9.18E+11,Technology,4,3,Prefers Quiet
+156,Sunita,40,Female,Freelancer,Night Owl,Introvert,3,9850,Hostel,Alpha,9.19E+11,Gaming,3,2,Occasional Gatherings
+157,Simran,27,Female,Freelancer,Flexible,Introvert,2,13200,PG,Beta,9.16E+11,Cooking,5,5,Occasional Gatherings
+158,Alok,37,Male,Working Professional,Early Riser,Extrovert,1,11000,Hostel,Alpha,9.19E+11,Cooking,2,2,Occasional Gatherings
+159,Ishaan,27,Male,Student,Night Owl,Introvert,4,5600,Hostel,Knowledge Park,9.17E+11,Photography,4,2,Party-Friendly
+160,Gaurav,22,Male,Working Professional,Flexible,Introvert,2,9850,Hostel,Beta,9.20E+11,Music,6,5,Prefers Quiet
+161,Krishna,27,Male,Freelancer,Early Riser,Extrovert,3,8590,PG,Beta,9.17E+11,Sports,6,4,Party-Friendly
+162,Nisha,21,Female,Working Professional,Flexible,Introvert,1,8590,Hostel,Gamma,9.16E+11,Fitness,5,4,Party-Friendly
+163,Varun,31,Male,Freelancer,Night Owl,Introvert,1,7589,Flat,Gamma,9.18E+11,Technology,4,1,Party-Friendly
+164,Vikas,38,Male,Freelancer,Night Owl,Extrovert,3,10000,Hostel,Knowledge Park,9.16E+11,Reading,3,3,Prefers Quiet
+165,Diya,20,Female,Student,Night Owl,Extrovert,5,8960,PG,Knowledge Park,9.20E+11,Music,4,4,Prefers Quiet
+166,Dhruv,39,Male,Freelancer,Night Owl,Extrovert,5,8900,Flat,Knowledge Park,9.19E+11,Technology,2,2,Prefers Quiet
+167,Nitin,20,Male,Freelancer,Early Riser,Extrovert,5,7800,PG,Gamma,9.18E+11,Photography,4,1,Occasional Gatherings
+168,Kunal,37,Male,Student,Flexible,Introvert,4,13500,Hostel,Gamma,9.20E+11,Traveling,6,2,Party-Friendly
+169,Ishaan,40,Male,Working Professional,Night Owl,Extrovert,1,8700,Flat,Knowledge Park,9.19E+11,Music,4,3,Prefers Quiet
+170,Dhruv,32,Male,Working Professional,Flexible,Introvert,5,8590,Flat,Gamma,9.17E+11,Gaming,6,5,Occasional Gatherings
+171,Siddhi,33,Female,Student,Night Owl,Introvert,5,7789,PG,Gamma,9.18E+11,Cooking,4,3,Prefers Quiet
+172,Diya,33,Female,Student,Early Riser,Introvert,4,5596,Flat,Alpha,9.17E+11,Reading,3,4,Prefers Quiet
+173,Amit,30,Male,Student,Night Owl,Extrovert,5,9984,PG,Alpha,9.18E+11,Music,5,5,Occasional Gatherings
+174,Suresh,26,Male,Student,Night Owl,Extrovert,3,8860,Hostel,Alpha,9.20E+11,Photography,5,3,Occasional Gatherings
+175,Ridhi,28,Female,Freelancer,Flexible,Introvert,5,5000,Flat,Alpha,9.17E+11,Traveling,3,2,Prefers Quiet
+176,Rashi,20,Female,Student,Early Riser,Extrovert,3,12000,PG,Knowledge Park,9.19E+11,Traveling,3,4,Occasional Gatherings
+177,Raj,18,Male,Freelancer,Early Riser,Extrovert,1,13000,Flat,Beta,9.18E+11,Sports,4,1,Occasional Gatherings
+178,Krishna,34,Female,Working Professional,Early Riser,Extrovert,2,10900,PG,Gamma,9.20E+11,Traveling,3,3,Occasional Gatherings
+179,Aryan,35,Male,Working Professional,Night Owl,Extrovert,1,15000,Flat,Alpha,9.18E+11,Traveling,6,3,Prefers Quiet
+180,Pihu,39,Female,Working Professional,Early Riser,Extrovert,1,7893,Flat,Beta,9.18E+11,Gaming,5,3,Occasional Gatherings
+181,Priya,38,Female,Student,Early Riser,Introvert,3,8000,Flat,Beta,9.19E+11,Movies,5,4,Prefers Quiet
+182,Aryan,32,Male,Freelancer,Early Riser,Introvert,1,8700,Hostel,Alpha,9.18E+11,Music,6,3,Prefers Quiet
+183,Mohit,40,Male,Working Professional,Early Riser,Introvert,5,7000,Flat,Gamma,9.18E+11,Traveling,5,4,Party-Friendly
+184,Sahil,36,Male,Student,Night Owl,Introvert,1,8000,Hostel,Gamma,9.17E+11,Sports,6,3,Occasional Gatherings
+185,Ravi,37,Male,Freelancer,Flexible,Extrovert,2,8790,PG,Knowledge Park,9.20E+11,Cooking,4,1,Occasional Gatherings
+186,Dhruv,39,Male,Freelancer,Early Riser,Extrovert,5,10000,PG,Knowledge Park,9.16E+11,Photography,3,1,Prefers Quiet
+187,Tanisha,33,Female,Student,Flexible,Introvert,2,5500,Hostel,Beta,9.19E+11,Reading,5,4,Party-Friendly
+188,Sunita,36,Female,Working Professional,Flexible,Introvert,1,12000,Flat,Beta,9.19E+11,Reading,3,5,Occasional Gatherings
+189,Myra,38,Female,Working Professional,Night Owl,Introvert,3,5000,Hostel,Gamma,9.20E+11,Reading,3,3,Occasional Gatherings
+190,Vivek,37,Male,Working Professional,Early Riser,Introvert,1,8900,Flat,Knowledge Park,9.16E+11,Reading,3,5,Party-Friendly
+191,Gaurav,29,Male,Student,Early Riser,Extrovert,3,6000,Flat,Knowledge Park,9.17E+11,Cooking,6,3,Occasional Gatherings
+192,Vikas,27,Male,Working Professional,Flexible,Introvert,1,1240,PG,Alpha,9.19E+11,Fitness,6,4,Occasional Gatherings
+193,Sneha,21,Female,Working Professional,Night Owl,Extrovert,5,15000,Flat,Knowledge Park,9.16E+11,Gaming,6,3,Party-Friendly
+194,Neha,32,Female,Working Professional,Early Riser,Extrovert,2,7800,Flat,Knowledge Park,9.18E+11,Technology,3,5,Occasional Gatherings
+195,Deepak,24,Male,Working Professional,Flexible,Introvert,3,6700,PG,Alpha,9.18E+11,Traveling,4,1,Prefers Quiet
+196,Sonia,29,Female,Student,Flexible,Extrovert,2,15000,Hostel,Knowledge Park,9.17E+11,Sports,6,4,Party-Friendly
+197,Harsh,20,Male,Freelancer,Early Riser,Introvert,1,5000,PG,Beta,9.19E+11,Traveling,5,5,Occasional Gatherings
+198,Aarav,31,Male,Student,Flexible,Extrovert,2,15904,PG,Knowledge Park,9.16E+11,Gaming,6,1,Occasional Gatherings
+199,Pari,23,Female,Freelancer,Night Owl,Extrovert,3,6600,PG,Beta,9.16E+11,Technology,4,4,Occasional Gatherings
+200,Diya,33,Female,Student,Night Owl,Introvert,5,8699,Flat,Beta,9.17E+11,Photography,6,4,Occasional Gatherings
